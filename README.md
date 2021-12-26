@@ -3,8 +3,14 @@
 
 ## Contents
  - [Mobile](https://github.com/MModenaDev/reads/tree/main#react-mobile)
-    - [React Native](https://github.com/MModenaDev/reads/tree/main#react-native)
+   - [React Native](https://github.com/MModenaDev/reads/tree/main#react-native)
+ - [Other](https://github.com/MModenaDev/reads/tree/main#other)
+   - [Process](https://github.com/MModenaDev/reads/tree/main#process)
 
 ## Mobile
 ### React Native
-  - [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c) // Article about Airbnb's implementation of RN and why it's switching to native.
+ - [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c) - Article about Airbnb's implementation of RN and why it's switching to native.
+
+## Other
+### Process
+ - [When Should I Write an Architecture Decision Record](https://engineering.atspotify.com/2020/04/14/when-should-i-write-an-architecture-decision-record/) - Article of how spotify goes about ADRs
